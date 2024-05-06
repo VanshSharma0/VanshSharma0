@@ -20,7 +20,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=VanshSharma0&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" style="height: 400px;" onerror="this.src='error.jpg';" />
+<a href="https://www.reddit.com/r/ProgrammerHumor/"><img src="placeholder.jpg" alt="Random Dev Meme" style="height: 400px;" /></a>
+
 
 
 ---
