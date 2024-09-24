@@ -28,7 +28,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=VanshSharma0&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<a href="https://www.reddit.com/r/ProgrammerHumor/"><img src="https://via.placeholder.com/400x400.png?text=Random+Dev+Meme" alt="Random Dev Meme" style="height: 400px;" /></a>
+<a href="https://www.reddit.com/r/ProgrammerHumor/">
+  <img src="https://i.redd.it/2qq3jkd6h8w51.jpg" alt="Random Dev Meme" style="height: 400px;" />
+</a>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VanshSharma0&icon=0&color=0)](https://visitcount.itsvg.in)
