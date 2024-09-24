@@ -1,12 +1,10 @@
 # 💫 About Me:
-🔭 Full Stack MERN Developer  <br>👯 I’m looking to collaborate on as a web-developer.<br>🤝 I’m looking for help with jobs or apprenticeships.<br>🌱 I’m currently learning AWS.<br>💬 Ask me about Data Structures & Algorithms.<br>⚡ Fun fact, I can solve a rubiks cube in less than 30 seconds.
-
+🔭 Full Stack MERN Developer <br>👯 I’m looking to collaborate on web development projects.<br>🤝 I’m open to job opportunities and apprenticeships.<br>🌱 Currently learning AWS.<br>💬 Ask me about Data Structures & Algorithms.<br>⚡ Fun fact: I can solve a Rubik's cube in less than 30 seconds.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/EpicVansh#2597)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-sharma-643998220/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Link&logoColor=white)](https://vansh0.vercel.app/)
-
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -23,20 +21,14 @@
 ![SQL](https://img.shields.io/badge/sql-%2300599C.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VanshSharma0&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<a href="https://www.reddit.com/r/ProgrammerHumor/"><img src="placeholder.jpg" alt="Random Dev Meme" style="height: 400px;" /></a>
-
-
+<a href="https://www.reddit.com/r/ProgrammerHumor/"><img src="https://via.placeholder.com/400x400.png?text=Random+Dev+Meme" alt="Random Dev Meme" style="height: 400px;" /></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VanshSharma0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/VanshSharma00?country.x=IN&locale.x=en_GB) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/VanshSharma00?country.x=IN&locale.x=en_GB)
